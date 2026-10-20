@@ -1,0 +1,11 @@
+{
+  "org": "pyeve",
+  "repo": "eve-swagger",
+  "versions": [
+    {
+      "commit": "d28f917706fedc055b171bfedea60a681a62b224",
+      "tag": "",
+      "parsed_at": "2026-10-20T14:35:13.797789+00:00"
+    }
+  ]
+}
