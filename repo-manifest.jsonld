@@ -8,7 +8,7 @@
     {
       "@id": "https://repolex.ai/r/pyeve/eve-swagger/commit/d28f917706fedc055b171bfedea60a681a62b224",
       "git:hexsha": "d28f917706fedc055b171bfedea60a681a62b224",
-      "repolex:parseStatus": "metadata_complete"
+      "repolex:parseStatus": "ast_complete"
     },
     {
       "@id": "https://repolex.ai/r/pyeve/eve-swagger/commit/0aa9d14786021d9c9fb699ba2244c57fe1f96443",
